@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":" With 6+ years of Aircraft Maintenance Engineering under my belt, I yearned to learn something different. The spark that I was missing ignited the instant I started writing my first lines of code, hence, I decided to go all-in. For the time being, I am a full stack developer with great team spirit, big ambitions and enthouisisastic for contrubuting in projects that solves real-world problems. This is my portfolio, I hope you'll like it!!",
+    "aboutme":"",
     "address":"bahlousshachem@gmail.com",
     "website":"https://rbhatia46.github.io",
     "education":[
@@ -43,18 +43,32 @@ let resumeData = {
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Recomend",
+        "specialization":"Full-stack developer",
+        "MonthOfLeaving":"Sept 2020",
+        "YearOfLeaving":"- Present",
+        "Achievements":"Developing a platform that enables E-commerce shops to have a better reviews system using video story format to insure that users are real and honestly tested the product with the aim of fighting spam and fake reviews."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Emiletic Web Technologies",
+        "specialization":"Frontend Developer | Intern",
+        "MonthOfLeaving":"Jul 2020",
+        "YearOfLeaving":"- Aug 2020",
+        "Achievements":" Building a website for an online printing service using GatsbyJS and sourcing from Contentful."
+      },
+      {
+        "CompanyName":"MonResto",
+        "specialization":"Software Developer | Intern",
+        "MonthOfLeaving":"June 2019",
+        "YearOfLeaving":"- Sept 2019",
+        "Achievements":"Developing a Blockchain App \"MonRestoWallet\" , with a custom cryptocurrency, connected to a decentralized network , that links the company to the Partner - Restaurants."
+      },
+      {
+        "CompanyName":"Tunisair Technics",
+        "specialization":"B2 Licensed Avionics Engineer",
+        "MonthOfLeaving":"June 2014",
+        "YearOfLeaving":"- Aug 2020",
+        "Achievements":"Managing maintenance tasks using the Aircraft Maintenance and Spares Information System (AMASIS) to build-up a complete and consistent maintenance management system that provides every department with its own information using reliable and verified data provided by other parties enabling a streamline process."
       }
     ],
     "skillsDescription":"Your skills here",

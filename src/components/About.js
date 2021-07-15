@@ -16,11 +16,8 @@ export default class About extends Component {
 
                <h2 style={{fontFamily: "Apple Chancery, cursive",fontSize:"30px"}}>About Me</h2>
                <p>
-               {
-                 resumeData.aboutme
-               }
+               With 6+ years of Aircraft Maintenance Engineering under my belt, I yearned to learn something different. The spark that I was missing ignited the instant I started writing my first lines of code, hence, I decided to go all-in. For the time being, I am a full stack developer with great team spirit, big ambitions and enthouisisastic for contrubuting in projects that solves real-world problems. 
                </p>
-
                <div className="row">
                </div>
             </div>
