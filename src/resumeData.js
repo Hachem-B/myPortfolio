@@ -71,7 +71,7 @@ let resumeData = {
         "Achievements":"Managing maintenance tasks using the Aircraft Maintenance and Spares Information System (AMASIS) to build-up a complete and consistent maintenance management system that provides every department with its own information using reliable and verified data provided by other parties enabling a streamline process."
       }
     ],
-    "skillsDescription":"Your skills here",
+    /*"skillsDescription":"My skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -82,12 +82,13 @@ let resumeData = {
       {
         "skillname":"Reactjs"
       }
-    ],
+    ],*/
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Nike SNKRS bot",
+        "description":"Bot that buys a Nike shoe when it drops.",
+        "imgurl":"images/portfolio/console.png",
+        "url":"https://github.com/Hachem-B/Nike-SNKRS-bot"
       },
       {
         "name":"project2",

@@ -102,7 +102,7 @@
 /*	Modal Popup
 ------------------------------------------------------*/
 
-    $('.item-wrap a').magnificPopup({
+   /* $('.item-wrap a').magnificPopup({
 
        type:'inline',
        fixedContentPos: false,
@@ -116,7 +116,7 @@
     		e.preventDefault();
     		$.magnificPopup.close();
     });
-
+*/
 
 /*----------------------------------------------------*/
 /*	Flexslider
